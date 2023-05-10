@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Khath Samnang</h1>
-<h3 align="center">A passionate frontend developer from Cambodia</h3>
+<h1 align="center">Certified Weeb Programmer 🌟</h1>
+<h3 align="center">Anime Enthusiast 💻🌸 | Coding with Otaku Flair ⚡📺</h3>
+<p align="center">Bringing anime dreams to life through elegant code. Join me in the command-line realm as we revolutionize anime-watching with media-cli. Let's merge technology and anime, one line of code at a time. Elevate your anime experience with a touch of otaku magic! 🎉✨🎌</p>
+<p align="center">✨ Certified Weeb Programmer ✨ Anime Lover ✨ Code Ninja ✨</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caivy&label=Profile%20views&color=0e75b6&style=flat" alt="caivy" /> </p>
 
-- 🔭 I’m currently working on **Myfan**
+- 🔭 I’m currently working on **Media-CLI**
 
 - 📫 How to reach me **khatit54@gmail.com**
 
